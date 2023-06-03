@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm uwap (they/them) and I do Nix, Haskell and TypeScript.
 <!--
 **uwap/uwap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
